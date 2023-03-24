@@ -1,4 +1,3 @@
-// We're adding these
 import * as Web3 from '@solana/web3.js';
 import * as fs from 'fs';
 import dotenv from 'dotenv';
